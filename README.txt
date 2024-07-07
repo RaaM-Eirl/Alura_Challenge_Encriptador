@@ -52,4 +52,3 @@ Por ejemplo:
 
 ---
 
-## [ir a la pagina](https://heric-olier.github.io/Encriptador-de-texto/) 👈
