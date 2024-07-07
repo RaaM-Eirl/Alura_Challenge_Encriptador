@@ -47,8 +47,6 @@ Por ejemplo:
 - Modo claro - Modo oscuro con localstorage
 - Notificaciones de alertas personalizadas
 
-![](https://i.imgur.com/KZjAEGP.png)
-![](https://i.imgur.com/QGFfmv9.png)
 
 ---
 
